@@ -1,0 +1,20 @@
+{
+  "name": "gammon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharp-Putt Corp",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.6"
+  }
+}
